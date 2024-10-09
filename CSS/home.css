@@ -1,0 +1,60 @@
+
+
+
+
+.h1 {text-align: center; text-shadow: rgb(95, 3, 3);color: white; font-weight: 200; text-transform: uppercase; font-size: 30px  ;
+}
+
+.p1 {text-align: center; text-shadow: rgb(95, 3, 3);color: white; font-weight: 200; margin-top: 10px; text-transform: uppercase; }
+
+
+.content-box {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    border: rgba(255, 255, 255, 0);
+   
+   
+    background-color: rgba(116, 6, 160, 0); /* Slightly transparent background color */
+    backdrop-filter: blur(0.5px); 
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.content-box h1 {
+    
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.content-box p {
+    margin: 20px 0;
+    color: white;
+    text-align: center ;
+}
+
+
+
+
+    .content-box button { background-color: #605a6193; /* Green background */
+        border: solid #63047467;              /* Remove default border */
+        color: white;              /* White text color */
+        padding: 15px 32px;        /* Padding around the text */
+        text-align: center;        /* Center text */
+        text-decoration: none;     /* Remove underline from text */
+        display: inline-block;     /* Make it an inline block */
+        font-size: 10px;           /* Font size */
+        margin: 2px 2px;           /* Margins around the button */
+        cursor: pointer;           /* Cursor changes to pointer on hover */
+        border-radius: 4px; 
+        margin-left: 150px; 
+        }
+
+        .img2{border: solid rgb(0, 0, 0) 3px;}
+
+        footer { color: white;
+        margin-top: 20px;
+        }
+
+        
